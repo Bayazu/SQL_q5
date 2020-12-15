@@ -1,0 +1,16 @@
+C:\Users\alex\source\repos\SQL_shit\SQL_shit\bin\Debug\SQL_shit.exe.config
+C:\Users\alex\source\repos\SQL_shit\SQL_shit\bin\Debug\SQL_shit.exe
+C:\Users\alex\source\repos\SQL_shit\SQL_shit\bin\Debug\SQL_shit.pdb
+C:\Users\alex\source\repos\SQL_shit\SQL_shit\obj\Debug\SQL_shit.csprojAssemblyReference.cache
+C:\Users\alex\source\repos\SQL_shit\SQL_shit\obj\Debug\SQL_shit.Form1.resources
+C:\Users\alex\source\repos\SQL_shit\SQL_shit\obj\Debug\SQL_shit.Properties.Resources.resources
+C:\Users\alex\source\repos\SQL_shit\SQL_shit\obj\Debug\SQL_shit.csproj.GenerateResource.cache
+C:\Users\alex\source\repos\SQL_shit\SQL_shit\obj\Debug\SQL_shit.csproj.CoreCompileInputs.cache
+C:\Users\alex\source\repos\SQL_shit\SQL_shit\obj\Debug\SQL_shit.exe
+C:\Users\alex\source\repos\SQL_shit\SQL_shit\obj\Debug\SQL_shit.pdb
+C:\Users\alex\source\repos\SQL_shit\SQL_shit\obj\Debug\SQL_shit.FormAuthors.resources
+C:\Users\alex\source\repos\SQL_shit\SQL_shit\obj\Debug\SQL_shit.FormBooks.resources
+C:\Users\alex\source\repos\SQL_shit\SQL_shit\obj\Debug\SQL_shit.FormDeliveries.resources
+C:\Users\alex\source\repos\SQL_shit\SQL_shit\obj\Debug\SQL_shit.FormPublish.resources
+C:\Users\alex\source\repos\SQL_shit\SQL_shit\obj\Debug\SQL_shit.FormPurchases.resources
+C:\Users\alex\source\repos\SQL_shit\SQL_shit\obj\Debug\SQL_shit.FormProcedure.resources
